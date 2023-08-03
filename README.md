@@ -39,5 +39,7 @@ If you have multiple GPUs it may be neccessary to use the
 "GPU1", "GPU2", "VRAMProc1", etc. variants.
 
 MSIAfterburner: https://www.msi.com/Landing/afterburner/graphics-cards
+
 MSIAfterburner.dll: https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/
+
 (Alternate links on page 10 of the forum)

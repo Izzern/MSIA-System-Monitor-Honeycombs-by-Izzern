@@ -12,6 +12,7 @@ specifications to @Resources\Variables.inc when started or
 refreshed.
 
 
+
 CUSTOMIZATION
 
 To customize the look of Izzern's System Monitor Honeycombs use
@@ -24,6 +25,7 @@ also display information about the device(s) being monitored.
 Changes to the layout of the Honeycomb may be neccessary with
 changes to font and scale. This can be done in the skin file
 (i.e. System Monitor Honeycomb by Izzern\cpu usage\cpu MSIA.ini).
+
 
 
 MSI AFTERBURNER

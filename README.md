@@ -1,7 +1,6 @@
 # MSIA-System-Monitor-Honeycombs-by-Izzern
-==================================================================
----------------- Izzern System Monitor Honeycomb -----------------
-==================================================================
+
+MSIA SYSTEM MONITOR HONEYCOMB BY IZZERN
 
 These skins were designed to be a simple and easily customizable
 system monitor. As such they require very little setup by the
@@ -11,9 +10,8 @@ This window automatically retrieves and writes hardware
 specifications to @Resources\Variables.inc when started or
 refreshed.
 
-=================================================================
--------------------------- Customization ------------------------
-=================================================================
+
+Customization
 
 To customize the look of Izzern's System Monitor Honeycombs use
 the GUI by clicking on one of the icons (CPU, GPU, RAM, FPS,
@@ -26,12 +24,13 @@ Changes to the layout of the Honeycomb may be neccessary with
 changes to font and scale. This can be done in the skin file
 (i.e. System Monitor Honeycomb by Izzern\cpu usage\cpu MSIA.ini).
 
-=================================================================
-------------------------- MSI Afterburner -----------------------
-=================================================================
+
+MSI Afterburner
 
 I have included the plugin for MSI Afterburner (MSIA) in the
-RMSkin and links to MSIA and the plugin below.
+RMSkin and links to MSIA and the plugin below. 
+You must install MSIA (and Riva Statistics Tuner for FPS only)
+to use these skins.
 
 If you have multiple GPUs it may be neccessary to use the
 "GPU1", "GPU2", "VRAMProc1", etc. variants.

@@ -1,5 +1,6 @@
 # MSIA-System-Monitor-Honeycombs-by-Izzern
 
+
 MSIA SYSTEM MONITOR HONEYCOMB BY IZZERN
 
 These skins were designed to be a simple and easily customizable
@@ -11,7 +12,7 @@ specifications to @Resources\Variables.inc when started or
 refreshed.
 
 
-Customization
+CUSTOMIZATION
 
 To customize the look of Izzern's System Monitor Honeycombs use
 the GUI by clicking on one of the icons (CPU, GPU, RAM, FPS,
@@ -25,7 +26,7 @@ changes to font and scale. This can be done in the skin file
 (i.e. System Monitor Honeycomb by Izzern\cpu usage\cpu MSIA.ini).
 
 
-MSI Afterburner
+MSI AFTERBURNER
 
 I have included the plugin for MSI Afterburner (MSIA) in the
 RMSkin and links to MSIA and the plugin below. 
